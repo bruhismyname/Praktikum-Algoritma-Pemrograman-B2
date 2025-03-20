@@ -1,2 +1,2 @@
 # Praktikum-Algoritma-Pemrograman-B2
-Kumpulan code praktikum Alpro semester II
+Kumpulan code praktikum Algoritma Pemrograman semester II
